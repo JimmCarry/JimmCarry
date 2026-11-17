@@ -20,4 +20,5 @@ I specialize in the **frontend** and in **bug fixing**: finding the real cause o
 - ✅ Automated tests with Playwright
 
 🌐 **Website:** [lukaszacekwebdeveloper.cz](https://www.lukaszacekwebdeveloper.cz)
+🎨 **Demo websites:** [demos.lukaszacekwebdeveloper.cz](https://demos.lukaszacekwebdeveloper.cz) (café, dental clinic, law firm, builders, yoga studio)
 💼 **LinkedIn:** [Lukáš Žáček](https://www.linkedin.com/in/luk%C3%A1%C5%A1-%C5%BE%C3%A1%C4%8Dek-915458132/)
