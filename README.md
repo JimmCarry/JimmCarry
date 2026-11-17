@@ -15,6 +15,7 @@ I specialize in the **frontend** and in **bug fixing**: finding the real cause o
 
 - 🐛 Fixing bugs in Vue.js, JavaScript/TypeScript and .NET apps
 - 🧩 New features and components in Vue.js
+- 🌍 Custom websites for small businesses, coded from scratch with Nuxt and Vue (no templates or page builders)
 - ⬆️ Upgrading legacy ASP.NET apps to modern .NET (I took part in migrating a large production app to .NET 8 and 9)
 - ✅ Automated tests with Playwright
 
